@@ -11,4 +11,7 @@ Application - Can be used as a base for several events that get triggered by the
 The code has extensive comments explaining most of the logic and the use of various libraries and functions. 
 
 Non-native dependencies - OpenCV
-Python version 3.5 and above
+
+`pip install opencv-python`
+
+Python version 3.5 and above (might work for lower versions of Python 3, not tested)
